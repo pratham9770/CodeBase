@@ -53,7 +53,7 @@ const EditorPage = () => {
     ],
   };
   
-  const initialOutput = {
+   const initialOutput = {
     CompilationStatus: "Not Started",
     ExecutionTime: "0.00",
     FilesCompiled: "Still Not Compiled",
